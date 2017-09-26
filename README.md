@@ -2,4 +2,4 @@
 ### by madooding
 
 ## Examination Summary
-- [Midterm]()
+- [Midterm](https://github.com/madooding/LibraryUsageAndInformationSummary/blob/master/MIDTERM.md)
